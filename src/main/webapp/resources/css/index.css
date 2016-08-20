@@ -1,0 +1,20 @@
+/*!
+ * WsHome's index page css defined here.
+ */
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+	background: url(../imgs/wshome-index-pjd-bird.JPG) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.index-introduce-area {
+	color: white;
+}
